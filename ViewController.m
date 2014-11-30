@@ -21,8 +21,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-   
-    // Do any additional setup after loading the view, typically from a nib.
     self.dataArray = [[NSMutableArray alloc] init];
 }
 
@@ -113,10 +111,6 @@
 }
 
 - (void)connectionDidFinishLoading:(NSURLConnection *)connection{
-    
-    // do something with the data
-    
-    // receivedData is declared as a method instance elsewhere
     
     NSLog(@"Succeeded!");
     
