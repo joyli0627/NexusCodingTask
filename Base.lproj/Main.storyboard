@@ -37,7 +37,7 @@
                             <navigationBar contentMode="scaleToFill" fixedFrame="YES" barStyle="blackTranslucent" translatesAutoresizingMaskIntoConstraints="NO" id="swS-2h-iH3">
                                 <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                                 <items>
-                                    <navigationItem title="Nexus Coding Task No.2" id="EDG-C7-xQG"/>
+                                    <navigationItem title="Nexus Coding Task " id="EDG-C7-xQG"/>
                                 </items>
                                 <variation key="heightClass=regular-widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="0.0" y="0.0" width="408" height="44"/>
