@@ -18,12 +18,6 @@
 @implementation ViewController
 @synthesize tableView = _tableView;
 
-/*- (NSMutableArray *)dataArray {
-    if (_dataArray == nil) {
-        _dataArray = [[NSMutableArray alloc] init];
-    }
-    return _dataArray;
-}*/
 
 - (void)viewDidLoad {
     [super viewDidLoad];
